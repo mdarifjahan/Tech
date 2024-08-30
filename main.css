@@ -1,0 +1,41 @@
+.civil img{
+    width: 400px;
+}
+.computer img{
+    width: 400px;
+    height: 225px;
+}
+.Electrical img{
+    width: 400px;
+}
+.macanical img{
+    width: 400px;
+}
+.Textail img{
+    width: 400px;
+}
+.Garments img{
+    width: 400px;
+}
+.contner{
+   /*  display: flex; */
+    margin: 50px;
+   /*  padding: 20px; */
+}
+.hhhh{
+    display: flex;
+    margin: 20px;
+    text-align: center;
+    margin-top: -30px;
+    justify-content: space-around;
+}
+.rrrr{
+    display: flex;
+    text-align: center;
+    margin: 22px;
+    margin-top: -30px;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
